@@ -1,0 +1,6 @@
+data/v2_*
+
+# for now
+finetuning/ 
+VQA/
+VLA
